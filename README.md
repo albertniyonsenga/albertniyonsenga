@@ -1,16 +1,23 @@
-## Hi there 👋
+<pre align=center>
+ 
+   
+💻       🚀       🤖        🌍        🔭        ✈️
 
-<!--
-**albertniyonsenga/albertniyonsenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://lh4.googleusercontent.com/A_bx-GjYNQRuoUvtTZaLo_PpC4hLP7oOwCEDNIPWpJNYii5KcbOJCjMOIqL4Hc_CPahp124VKUAdM0DwEUQOvxew5GjD7Mbmc3h-xkMAi7oHTX2VNcURf2fhyAJaGeE_trrGkrRR9ucy-lt8kdE4Dw" alt="Example Image">
+</p>
+</pre>
 
-Here are some ideas to get you started:
+<div align=center>
+  <a href="https://github.com/Al04ni">🌐</a> 
+  <a href="mailto:a.niyonseng@alustudent.com">📧</a> 
+  <a href="https://www.linkedin.com/in/albertniyonsenga/">💼</a>
+</div>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align=center>
+<p> Happy coding😊!</p>
+</div>
+
