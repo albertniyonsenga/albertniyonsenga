@@ -18,6 +18,6 @@
 
 
 <div align=center>
-<p> Happy coding😊!</p>
+<p> 😊</p>
 </div>
 
